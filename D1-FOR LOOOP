@@ -1,0 +1,3 @@
+#Simple Python Loop 
+for x in range(40):
+    print ("Hello world!")
